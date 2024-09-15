@@ -13,6 +13,7 @@ public class SbRestUmsApplication {
 		System.out.println("Praveen");
 
 		System.out.println("Praveen1");
+		System.out.println("Praveen2");
 		
 
 			
