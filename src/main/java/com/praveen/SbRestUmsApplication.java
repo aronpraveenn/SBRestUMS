@@ -10,7 +10,13 @@ public class SbRestUmsApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SbRestUmsApplication.class, args);
+<<<<<<< Updated upstream
+		System.out.println("Praveen5");
 		System.out.println("Praveen");
+=======
+		System.out.println("Praveen1");
+		
+>>>>>>> Stashed changes
 			
 	}
 }
