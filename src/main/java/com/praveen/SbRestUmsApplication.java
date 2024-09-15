@@ -10,6 +10,7 @@ public class SbRestUmsApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SbRestUmsApplication.class, args);
+		System.out.println("Praveen5");
 		System.out.println("Praveen");
 			
 	}
